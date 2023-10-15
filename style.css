@@ -1,0 +1,57 @@
+.yuz{
+    background-color: #ffae6a;
+ width: 200px;
+ height: 200px;
+ border-radius: 47%;
+}
+.agiz{
+    position: relative;
+	width: 60%;
+	left: 13%;
+	height: 25%;
+	border: 1vw solid transparent;
+	border-radius: 50%;
+	top: 40%;
+	border-bottom-color: #000;
+}
+.gozAlani{
+    
+    width: 125px;
+    height: 40px;
+    position: absolute;
+    left: 45px;
+    top: 50px;
+}
+.solGoz , .sagGoz{
+    background-color: #ffffff;
+    width: 52px;
+    height: 50px;
+    border-radius: 50px;
+    position: absolute;
+    top: 1px;
+}
+.sagGoz{
+    right: 6px;
+
+}
+.gozBebegi{
+    background: #000;
+	width: 40%;
+	height: 40%;
+	position: relative;
+	left: 28%;
+    top: 14px;
+    border-radius: 50px;
+	
+}
+.burun{
+    background-color: rgb(13, 12, 12);
+    width: 16%;
+    height: 12%;
+    border-radius: 80% 80% 100% 100%;
+    position: relative;
+    top: 12%;
+    left: calc(50% - 8%);
+}
+
+
